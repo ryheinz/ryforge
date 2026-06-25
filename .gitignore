@@ -1,0 +1,32 @@
+# Logs
+logs/
+*.log
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+# Editors
+.vscode/
+.idea/
+
+# Linux
+.directory
+
+# macOS
+.DS_Store
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+
+# Environment
+.env
+.env.*
+
+# Swap
+*.swp
+*~
+
